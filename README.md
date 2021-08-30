@@ -1,2 +1,2 @@
 # musikey
-Main notes are in the sketch.js
+Run the code in the sketch.js
