@@ -1,4 +1,3 @@
-
 var counter = 0;
 var inrterval;
 var button;
